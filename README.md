@@ -3,7 +3,7 @@
 
 **Name:** Sameer Dhanda
 **Major:** Computer Science
-**Technology Interest:** Artifical Intelligence
+**Technology Interest:** Artificial Intelligence
 **Senior Project Skill Goal:** Full Stack Web Development
 
 ## About This Repository
